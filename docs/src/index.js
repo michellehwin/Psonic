@@ -1,4 +1,4 @@
-import anime from './anime.js';
+
 import './styles/main.scss'
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
